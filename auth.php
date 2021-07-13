@@ -13,9 +13,9 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-    'recaptchaFailed' => 'Recaptcha not validated.',
-    'companyStatusInactive' => 'Company account is inactive. Please contact to administrator.',
-    'sociaLoginFail' => 'Your account does not exists. Please sign up',
+    'failed' => 'Bu kimlik bilgileri kayıtlarımızla eşleşmiyor.',
+    'throttle' => 'Çok fazla giriş denemesi. Lütfen :seconds saniye içinde tekrar deneyin.',
+    'recaptchaFailed' => 'Recaptcha doğrulanmadı.',
+    'companyStatusInactive' => 'Şirket hesabı etkin değil. Lütfen yönetici ile iletişime geçin.',
+    'sociaLoginFail' => 'Hesabınız mevcut değil. Lütfen kaydolun',
 ];
