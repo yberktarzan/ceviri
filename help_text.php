@@ -1,6 +1,6 @@
 <?php
 return [
-    'projectName' => 'Enter the title of the project',
-    'projectCategorySettings' => 'Select the category of the project.',
-    'startDate' => 'Select the start date of project.',
+    'projectName' => 'Projenin başlığını giriniz',
+    'projectCategorySettings' => 'Projenin kategorisini seçiniz.',
+    'startDate' => 'Projenin başlangıç tarihini seçiniz.',
 ];
