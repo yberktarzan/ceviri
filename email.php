@@ -161,7 +161,7 @@ return array(
   'emailVerify' =>
   array(
     'subject' => 'Eposta Doğrulama',
-    'text' => 'Thank you for registration. Here are your email verification instructions. A request to your email verification has been made. If you did not make this request, simply ignore this email. If you did make this request, please verify ',
+    'text' => 'Kayıt için teşekkürler. İşte e-posta talimatlarınız. E-posta doğrulamanız için bir istek gönderildi. Bu talebi siz yapmadıysanız, bu e-postayı dikkate almayın. Bu isteği siz yaptıysanız, lütfen doğrulayın.',
   ),
   'emailVerifySuccess' =>
   array(
@@ -177,7 +177,7 @@ return array(
   'estimate' =>
   array(
     'subject' => ' Yeni Tahmin Oluşturuldu!',
-    'text' => 'A new estimate for your project has been created as attached. Please click on the link below to approve / reject the estimate. ',
+    'text' => 'Projeniz için ekteki gibi yeni bir tahmin oluşturuldu. Tahmini onaylamak/reddetmek için lütfen aşağıdaki bağlantıya tıklayın. ',
     'approveReject' => 'Reddetmeyi onayla'
   ),
   'chat' =>
