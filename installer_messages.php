@@ -7,9 +7,9 @@ return [
      * Shared translations.
      *
      */
-    'title' => 'Laravel Installer',
-    'next' => 'Next Step',
-    'finish' => 'Install',
+    'title' => 'Laravel Yükleyici',
+    'next' => 'Sonraki adım',
+    'finish' => 'Yükle',
 
 
     /**
@@ -18,8 +18,8 @@ return [
      *
      */
     'welcome' => [
-        'title'   => 'Welcome To The Installer',
-        'message' => 'Welcome to the setup wizard.',
+        'title'   => 'Yükleyiciye Hoş Geldiniz',
+        'message' => 'Kurulum sihirbazına hoş geldiniz.',
     ],
 
 
@@ -29,7 +29,7 @@ return [
      *
      */
     'requirements' => [
-        'title' => 'Server Requirements',
+        'title' => 'Sunucu Gereksinimleri',
     ],
 
 
@@ -39,7 +39,7 @@ return [
      *
      */
     'permissions' => [
-        'title' => 'Permissions',
+        'title' => 'İzinler',
     ],
 
 
@@ -49,13 +49,13 @@ return [
      *
      */
     'environment' => [
-        'title' => 'Database Configuration',
-        'save' => 'Save .env',
-        'success' => 'Your .env file settings have been saved.',
-        'errors' => 'Unable to save the .env file, Please create it manually.',
+        'title' => 'Veritabanı Yapılandırması',
+        'save' => '.env\'yi kaydet',
+        'success' => '.env dosya ayarlarınız kaydedildi.',
+        'errors' => '.env dosyası kaydedilemiyor, Lütfen manuel olarak oluşturun.',
     ],
     
-    'install' => 'Install',
+    'install' => 'Yükle',
 
 
     /**
@@ -64,9 +64,9 @@ return [
      *
      */
     'final' => [
-        'title' => 'Finished',
-        'finished' => 'Application has been successfully installed.',
-        'exit' => 'Click here to exit',
+        'title' => 'Bitti',
+        'finished' => 'Uygulama başarıyla yüklendi.',
+        'exit' => 'Çıkmak için burayı tıklayın',
     ],
-    'checkPermissionAgain' => ' Check Permission Again'
+    'checkPermissionAgain' => 'İzin Tekrar Kontrol Edin'
 ];

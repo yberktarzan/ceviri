@@ -3,399 +3,398 @@
 return array(
   'newEvent' =>
   array(
-    'subject' => 'New Event Created',
-    'text' => 'New event has been created. Download the attachment to add event to your calendar.',
+    'subject' => 'Yeni Etkinlik Oluşturuldu',
+    'text' => 'Yeni etkinlik oluşturuldu. Takviminize etkinlik eklemek için eki indirin.',
   ),
-  'loginDashboard' => 'Login To Dashboard',
-  'thankyouNote' => 'Thank you for using our application!',
-  'hello' => 'Hello',
-  'whoops' => 'Whoops',
-  'regards' => 'Regards',
-  'footerLine' => 'If you’re having trouble clicking the :buttonText button, copy and paste the URL below
-into your web browser:',
+  'loginDashboard' => 'Kontrol Paneline Giriş Yap',
+  'thankyouNote' => 'Uygulamamızı kullandığınız için teşekkür ederiz!',
+  'hello' => 'Merhaba',
+  'whoops' => 'Vay canına',
+  'regards' => 'Saygılarımızla',
+  'footerLine' => ':buttonText düğmesini tıklamada sorun yaşıyorsanız, aşağıdaki URL\'yi kopyalayıp web tarayıcınıza yapıştırın:',
   'newExpense' =>
   array(
-    'subject' => 'New Expense added',
+    'subject' => 'Yeni Harcama eklendi',
   ),
   'expenseStatus' =>
   array(
-    'subject' => 'Expense status updated',
-    'text' => 'Your expense status updated to',
+    'subject' => 'Gider durumu güncellendi',
+    'text' => 'Harcama durumunuz güncellendi',
   ),
     'resetPassword' =>
         array(
-            'subject' => 'Reset Password Notification',
-            'text' => 'You are receiving this email because we received a password reset request for your account.',
-            'text2' => 'If you did not request a password reset, no further action is required.',
-            'button' => 'Reset Password',
-            'expire' => 'This password reset link will expire in :count minutes.',
+            'subject' => 'Şifreyi Sıfırla Bildirimi',
+            'text' => 'Bu e-postayı, hesabınız için bir parola sıfırlama isteği aldığımız için alıyorsunuz.',
+            'text2' => 'Parola sıfırlama talebinde bulunmadıysanız, başka bir işlem yapmanız gerekmez.',
+            'button' => 'Şifreyi yenile',
+            'expire' => 'Bu parola sıfırlama bağlantısının süresi :count dakika içinde sona erecek.',
         ),
   'newNotice' =>
   array(
-    'subject' => 'New Notice Published',
-    'text' => 'New notice has been published.',
+    'subject' => 'Yeni Duyuru Yayınlandı',
+    'text' => 'Yeni duyuru yayınlandı.',
   ),
   'newProjectMember' =>
   array(
-    'subject' => 'New Project Assigned',
-    'text' => 'You have been added as a member to the project',
+    'subject' => 'Yeni Proje Atandı',
+    'text' => 'Projeye üye olarak eklendiniz',
   ),
   'newTask' =>
   array(
-    'subject' => 'New Task Assigned to You',
+    'subject' => 'Size Yeni Görev Atandı',
   ),
   'newTicket' =>
   array(
-    'subject' => 'New Support Ticket Requested by company ',
-    'text' => 'New Support Ticket is requested. Login to view the ticket.',
+    'subject' => 'Şirket Tarafından Yeni Destek Bileti Talep Edildi',
+    'text' => 'Yeni Destek Bileti isteniyor. Bileti görüntülemek için giriş yapın.',
   ),
   'newSupportTicket' =>
   array(
-    'subject' => 'New Ticket For Support Requested',
-    'text' => 'New  ticket for support is requested. Login to view the support ticket.',
+    'subject' => 'Destek İçin Yeni Bilet Talep Edildi',
+    'text' => 'Destek için yeni bilet isteniyor. Destek biletini görüntülemek için giriş yapın.',
   ),
  'newTicketRequester' =>
   array(
-    'subject' => 'New Ticket Has Been Generated For You.',
-    'text' => 'New support ticket is has been generated for you. Login to view the ticket.',
+    'subject' => 'Sizin İçin Yeni Bilet Oluşturuldu.',
+    'text' => 'Sizin için yeni destek bileti oluşturuldu. Bileti görüntülemek için giriş yapın.',
   ),
   'newSupportTicketRequester' =>
   array(
-    'subject' => 'New Support Ticket Has Been Generated For You.',
-    'text' => 'New  ticket for support is has been generated for you. Login to view the ticket.',
+    'subject' => 'Sizin İçin Yeni Destek Bileti Oluşturuldu.',
+    'text' => 'Sizin için yeni destek bileti oluşturuldu. Bileti görüntülemek için giriş yapın.',
   ),
   'newUser' =>
   array(
-    'subject' => 'Welcome to',
-    'text' => 'Your account has been created successfully.',
+    'subject' => 'Hoşgeldiniz',
+    'text' => 'Hesabınız Başarıyla Oluşturuldu.',
   ),
   'leaves' =>
   array(
-    'subject' => 'New leave request received',
-    'statusSubject' => 'Leave application status updated',
+    'subject' => 'Yeni izin talebi alındı',
+    'statusSubject' => 'Uygulama durumunu güncel bırakın',
   ),
   'taskComplete' =>
   array(
-    'subject' => 'Task marked as complete',
+    'subject' => 'Görev tamamlandı olarak işaretlendi',
   ),
   'taskUpdate' =>
   array(
-    'subject' => 'Task updated',
+    'subject' => 'Görev güncellendi',
   ),
   'leave' =>
   array(
-    'approve' => 'Leave application approved.',
-    'reject' => 'Leave application rejected.',
-    'applied' => 'Leave application applied.',
+    'approve' => 'Başvuruyu onaylanmış bırakın.',
+    'reject' => 'Bırakma başvurusu reddedildi.',
+    'applied' => 'Uygulamayı bırakın.',
   ),
   'newClientTask' =>
   array(
-    'subject' => 'New Task Generated',
-    'text' => 'New Task Generated on your project. Details are following :-',
+    'subject' => 'Yeni Görev Oluşturuldu',
+    'text' => 'Projenizde Oluşturulan Yeni Görev. Ayrıntılar aşağıdadır :-',
   ),
   'newCompany' =>
   array(
-    'subject' => 'New company registered',
-    'text' => 'New company has been registered.',
+    'subject' => 'Yeni şirket kaydı',
+    'text' => 'Yeni şirket kaydedildi.',
   ),
   'planUpdate' =>
   array(
-    'subject' => 'Company updated plan.',
-    'text' => 'named company has been updated plan',
+    'subject' => 'Şirket güncellenmiş planı.',
+    'text' => 'adlı şirket planı güncellendi',
   ),
   'reminder' =>
   array(
-    'subject' => 'Reminder for assigned task',
+    'subject' => 'Atanan görev için hatırlatma',
   ),
   'licenseExpirePre' =>
   array(
-    'subject' => 'Company license Expiring soon.',
-    'text' => 'Your company license is expiring soon Please check your billing details.',
+    'subject' => 'Şirket lisansı yakında sona eriyor.',
+    'text' => 'Şirket lisansınızın süresi yakında doluyor Lütfen fatura ayrıntılarınızı kontrol edin.',
   ),
   'licenseExpire' =>
   array(
-    'subject' => 'Company Licence expired.',
-    'text' => 'Your company license has been expired. Please check billing details.',
+    'subject' => 'Şirket Lisansının süresi doldu.',
+    'text' => 'Şirket lisansınızın süresi doldu. Lütfen fatura ayrıntılarını kontrol edin.',
   ),
   'planPurchase' =>
   array(
-    'subject' => 'Plan Purchase',
-    'text' => 'Company purchased plan',
+    'subject' => 'Satın Alma Planı',
+    'text' => 'Şirket satın alınan plan',
   ),
   'cancelLicense' =>
   array(
-    'subject' => 'License cancelled due to failed payment.',
-    'text' => 'License has been cancelled due to the failed payment. Please check the details.',
+    'subject' => 'Başarısız ödeme nedeniyle lisans iptal edildi.',
+    'text' => 'Başarısız ödeme nedeniyle lisans iptal edildi. Lütfen ayrıntıları kontrol edin.',
   ),
   'invoices' =>
   array(
-    'paymentReceived' => 'Payment received for invoice.',
-    'offlinePaymentRequest' => 'Offline Payment Request.',
+    'paymentReceived' => 'Fatura için ödeme alındı.',
+    'offlinePaymentRequest' => 'Çevrimdışı Ödeme Talebi.',
   ),
   'projectReminder' =>
   array(
-    'subject' => 'Project Reminder',
-    'text' => 'This is to remind you about the due date of the following projects which is',
+    'subject' => 'Proje Hatırlatma',
+    'text' => 'Bu, aşağıdaki projelerin teslim tarihini hatırlatmak içindir',
   ),
   'messages' =>
   array(
-    'loginForMoreDetails' => 'Log in for more details.',
+    'loginForMoreDetails' => 'Daha fazla ayrıntı için oturum açın.',
   ),
   'paymentReminder' =>
   array(
-    'content' => 'This is to remind you about the due date of the following project invoice payment which is',
-    'subject' => 'Payment Reminder',
+    'content' => 'Bu, aşağıdaki proje fatura ödemesinin vade tarihini size hatırlatmak içindir',
+    'subject' => 'Ödeme hatırlatıcısı',
   ),
   'taskComment' =>
   array(
-    'subject' => 'Comment posted on task',
+    'subject' => 'Görev üzerine yorum gönderildi',
   ),
   'removalRequestAdmin' =>
   array(
-    'subject' => 'Data removal request',
-    'text' => 'Data removal request',
+    'subject' => 'Veri kaldırma isteği',
+    'text' => 'Veri kaldırma isteği',
   ),
   'fileUpload' =>
   array(
-    'subject' => 'New file uploaded to project : ',
+    'subject' => 'Projeye yeni dosya yüklendi:',
   ),
   'emailVerify' =>
   array(
-    'subject' => 'Email Verification',
-    'text' => 'Thank you for registration. Here are your email verification instructions. A request to your email verification has been made. If you did not make this request, simply ignore this email. If you did make this request, please verify ',
+    'subject' => 'Eposta Doğrulama',
+    'text' => 'Kayıt için teşekkürler. İşte e-posta talimatlarınız. E-posta doğrulamanız için bir istek gönderildi. Bu talebi siz yapmadıysanız, bu e-postayı dikkate almayın. Bu isteği siz yaptıysanız, lütfen doğrulayın.',
   ),
   'emailVerifySuccess' =>
   array(
-    'subject' => 'Email Verification Success',
-    'text' => 'Thank you for email verification. Please click the below link to login',
-    'login' => 'Login'
+    'subject' => 'E-posta Doğrulama Başarılı',
+    'text' => 'E-posta doğrulaması için teşekkür ederiz. Giriş yapmak için lütfen aşağıdaki bağlantıya tıklayın',
+    'login' => 'Oturum aç'
   ),
   'discussionReply' =>
   array(
-    'subject' => ' replied to ',
-    'text' => 'You have received a reply on ',
+    'subject' => ' yanıtladı',
+    'text' => 'Bir cevap aldınız',
   ),
   'estimate' =>
   array(
-    'subject' => ' New Estimate Created!',
-    'text' => 'A new estimate for your project has been created as attached. Please click on the link below to approve / reject the estimate. ',
-    'approveReject' => 'Approve / Reject'
+    'subject' => ' Yeni Tahmin Oluşturuldu!',
+    'text' => 'Projeniz için ekteki gibi yeni bir tahmin oluşturuldu. Tahmini onaylamak/reddetmek için lütfen aşağıdaki bağlantıya tıklayın. ',
+    'approveReject' => 'Reddetmeyi onayla'
   ),
   'chat' =>
   array(
-    'text' => 'The introduction to the notification',
-    'notificationAction' => 'Notification Action',
+    'text' => 'Bildirime giriş',
+    'notificationAction' => 'Bildirim İşlemi',
   ),
   'push' =>
   array(
-    'text' => 'The introduction to the notification',
-    'notificationAction' => 'Notification Action',
+    'text' => 'Bildirime giriş',
+    'notificationAction' => 'Bildirim İşlemi',
   ),
   'slack' =>
   array(
-    'text' => 'The introduction to the notification',
-    'notificationAction' => 'Notification Action',
+    'text' => 'Bildirime giriş',
+    'notificationAction' => 'Bildirim İşlemi',
   ),
   'timerStart' =>
   array(
-    'text' => 'The introduction to the notification',
-    'notificationAction' => 'Notification Action',
+    'text' => 'Bildirime giriş',
+    'notificationAction' => 'Bildirim İşlemi',
   ),
   'issue' =>
   array(
-    'text' => 'The introduction to the notification',
-    'notificationAction' => 'Notification Action',
+    'text' => 'Bildirime giriş',
+    'notificationAction' => 'Bildirim İşlemi',
   ),
   'contract' =>
   array(
-    'subject' => 'New Contract Created!',
-    'text' => 'A new contract has been created.',
-    'viewContract' => 'View Contract',
+    'subject' => 'Yeni Sözleşme Oluşturuldu!',
+    'text' => 'Yeni bir sözleşme oluşturuldu.',
+    'viewContract' => 'Sözleşmeyi Görüntüle',
   ),
   'contractSign' =>
   array(
-    'subject' => 'Contract Signed',
-    'text' => ':contract (contract) is signed by :client.',
+    'subject' => 'Sözleşme imzalandı',
+    'text' => ':contract (sözleşme) :client tarafından imzalanmıştır.',
   ),
   'invoice' =>
   array(
-    'subject' => 'New Invoice Generated!',
-    'text' => 'A new invoice for your project has been created as attached. Please click on the link to view the invoice.',
-    'viewInvoice' => 'View Invoice',
+    'subject' => 'Yeni Fatura Oluşturuldu!',
+    'text' => 'Projeniz için ekteki gibi yeni bir fatura oluşturuldu. Faturayı görüntülemek için lütfen bağlantıya tıklayın.',
+    'viewInvoice' => 'Faturayı Görüntüle',
   ),
   'payment' =>
   array(
-    'subject' => 'Payment Received!',
-    'text' => 'Thank you. Payment is recorded. Please click on the link below to view/download the paid invoice.',
+    'subject' => 'Ödeme alındı!',
+    'text' => 'Teşekkür ederim. Ödeme kaydedilir. Ödenen faturayı görüntülemek/indirmek için lütfen aşağıdaki bağlantıya tıklayın.',
   ),
   'offlinePaymentAccept' =>
   array(
-    'subject' => 'Offline payment verified',
-    'text' => 'Your request for :invoice_id is accepted.',
+    'subject' => 'Çevrimdışı ödeme doğrulandı',
+    'text' => ':invoice_id talebiniz kabul edildi.',
   ),
   'offlinePaymentReject' =>
   array(
-    'subject' => 'Offline Payment rejected',
-    'text' => 'Your request for :invoice_id is rejected.',
+    'subject' => 'Çevrimdışı Ödeme reddedildi',
+    'text' => ':invoice_id talebiniz reddedildi.',
   ),
   'offlinePackageChangeVerify' =>
   array(
-    'subject' => 'Package change request verified',
-    'text' => 'Your request for plan change has been successfully verified.',
-    'message' => 'Now your package is :package'
+    'subject' => 'Paket değişikliği isteği doğrulandı',
+    'text' => ':plan değişikliği talebiniz başarıyla doğrulandı.',
+    'message' => 'Şimdi paketiniz :package'
   ),
   'offlinePackageChangeReject' =>
   array(
-    'subject' => 'Package change request rejected',
-    'text' => 'Your request for :plan change has been rejected due to wrong details.',
+    'subject' => 'Paket değişikliği talebi reddedildi',
+    'text' => ':plan değişikliği talebiniz, yanlış ayrıntılar nedeniyle reddedildi.',
   ),
   'offlinePackageChangeRequest' =>
   array(
-    'subject' => 'Package change request',
-    'text' => ':company is requested for package change.',
-    'packageName' => 'Package Name',
+    'subject' => 'Paket değişikliği talebi',
+    'text' => 'Paket değişikliği :company  için talep edildi.',
+    'packageName' => 'Paket ismi',
   ),
   'proposal' =>
   array(
-    'subject' => 'New Lead Proposal Sent!',
-    'text' => 'A new lead proposal has been sent to you. Login now to view the proposal.',
+    'subject' => 'Yeni Potansiyel Müşteri Teklifi Gönderildi!',
+    'text' => 'Size yeni bir potansiyel müşteri teklifi gönderildi. Teklifi görüntülemek için şimdi giriş yapın.',
   ),
  'clientProposal' =>
   array(
-    'subject' => 'New Lead Proposal received!',
-    'text' => 'A new New Lead Proposal receive. Please click to view proposal to view the proposal.',
-    'viewProposal' => 'View Proposal',
+    'subject' => 'Yeni Potansiyel Müşteri Teklifi alındı!',
+    'text' => 'Yeni bir Yeni Müşteri Adayı Teklifi alın. Teklifi görüntülemek için lütfen teklifi görüntülemek için tıklayın.',
+    'viewProposal' => 'Teklifi Görüntüle',
   ),
   'test' =>
   array(
-    'subject' => 'Test email!',
-    'text' => 'This is a test email.',
+    'subject' => 'Test e-postası!',
+    'text' => 'Bu bir test e-postasıdır.',
   ),
   'supportTicketReply' =>
   array(
-    'subject' => 'Support Ticket Reply',
-    'text' => 'New reply received on support ticket ',
+    'subject' => 'Destek Bileti Yanıtı',
+    'text' => 'Destek biletinde yeni yanıt alındı',
   ),
   'newChat' =>
   array(
-    'subject' => 'New message received.',
+    'subject' => 'Yeni mesaj alındı.',
   ),
   'discussion' =>
   array(
-    'subject' => 'New discussion started ',
+    'subject' => 'Yeni tartışma başladı',
   ),
-  'subTaskCreated' => 'Sub task created.',
+  'subTaskCreated' => 'Alt görev oluşturuldu.',
   'subTaskComplete' =>
   array(
-    'subject' => 'Sub Task marked as complete',
+    'subject' => 'Alt Görev tamamlandı olarak işaretlendi',
   ),
   'ticketAgent' =>
   array(
-    'subject' => 'You have been assigned a ticket',
-    'text' => 'You have been assigned a new ticket.',
+    'subject' => 'Bir bilet verildi',
+    'text' => 'Size yeni bir bilet atandı.',
   ),
  'supportTicketAgent' =>
   array(
-    'subject' => 'You have been assigned a support ticket',
-    'text' => 'You have been assigned a new support ticket.',
+    'subject' => 'Size bir destek bileti atandı',
+    'text' => 'Size yeni bir destek bileti atandı.',
   ),
   'newContract' =>
   array(
-    'subject' => 'New Contract Created!',
-    'text' => 'A new contract has been created.',
+    'subject' => 'Yeni Sözleşme Oluşturuldu!',
+    'text' => 'Yeni bir sözleşme oluşturuldu.',
   ),
   'noticeUpdate' =>
   array(
-    'subject' => 'A notice has been updated',
-    'text' => 'Notice has been updated. Login to view the notice.',
+    'subject' => 'Bildirim güncellendi',
+    'text' => 'Bildirim güncellendi. Bildirimi görüntülemek için giriş yapın.',
   ),
   'taskNote' =>
   array (
-     'subject' => 'New note on task',
+     'subject' => 'Görev üzerine yeni not',
   ),
   'removalRequestApprovedUser' =>
   array (
-     'subject' => 'Removal Request Approval',
-     'text' => 'Your removal request has been approved',
+     'subject' => 'Kaldırma Talebi Onayı',
+     'text' => 'Kaldırma talebiniz onaylandı',
   ),
   'removalRequestRejectedUser' =>
   array (
-     'subject' => 'Removal Request Rejected',
-     'text' => 'Your removal request has been rejected',
+     'subject' => 'Kaldırma Talebi Reddedildi',
+     'text' => 'Kaldırma talebiniz reddedildi',
   ),
   'newExpenseRecurring' =>
   array (
-      'subject' => 'New Recurring Expense submitted',
+      'subject' => 'Yeni Yinelenen Gider gönderildi',
   ),
   'expenseRecurringStatus' =>
   array (
-      'subject' => 'Recurring Expense status updated',
-      'text' => 'Your recurring expense status updated to',
+      'subject' => 'Yinelenen Gider durumu güncellendi',
+      'text' => 'Yinelenen gider durumunuz güncellendi',
   ),
   'newInvoiceRecurring' =>
   array (
-      'subject' => 'New Recurring Invoice submitted',
+      'subject' => 'Yeni Yinelenen Fatura gönderildi',
   ),
   'invoiceRecurringStatus' =>
   array (
-      'subject' => 'Recurring Invoice status updated',
-      'text' => 'Your recurring invoice status updated to',
+      'subject' => 'Yinelenen Fatura durumu güncellendi',
+      'text' => 'Yinelenen fatura durumunuz güncellendi',
   ),
   'creditNote' =>
   array (
-      'subject' => 'New Credit Note received',
-      'text' => 'A new credit note has been received. Login now to view the credit note.',
+      'subject' => 'Yeni Kredi Notu alındı',
+      'text' => 'Yeni bir kredi notu alındı. Alacak dekontunu görüntülemek için şimdi giriş yapın.',
   ),
   'leadAgent' => 
   array (
-    'subject' => 'New lead received.',
+    'subject' => 'Yeni müşteri adayı alındı.',
   ),
   'newProject' =>
   array(
-     'subject' => 'New Project Added',
-     'text' => 'A new project added with name.',
-     'withName' => 'with name.',
-     'loginNow' => ' Login now to view the project.',
+     'subject' => 'Yeni Proje Eklendi',
+     'text' => 'Adıyla yeni bir proje eklendi.',
+     'withName' => 'adıyla.',
+     'loginNow' => ' Projeyi görüntülemek için şimdi giriş yapın.',
   ),
   'projectFile' =>
   array(
-     'subject' => 'New Files Added To Project',
-     'text' => 'New files added to project.',
-     'withName' => 'with name.',
-     'loginNow' => ' Login now to view the project files.',
+     'subject' => 'Projeye Yeni Dosyalar Eklendi',
+     'text' => 'Projeye yeni dosyalar eklendi.',
+     'withName' => 'adıyla.',
+     'loginNow' => ' Proje dosyalarını görüntülemek için şimdi giriş yapın.',
   ),
   'productPurchase' =>
   array(
-     'subject' => 'New Product Purchase Request',
-     'text' => 'New product purchase request by client name-.',
-     'loginNow' => ' Login now to view the product purchase invoice.',
+     'subject' => 'Yeni Ürün Satın Alma Talebi',
+     'text' => 'Müşteri adına göre yeni ürün satın alma talebi-.',
+     'loginNow' => ' Ürün satın alma faturasını görüntülemek için şimdi giriş yapın.',
   ),
   'rating' =>
   array(
-     'subject' => 'Rating added on project',
-     'text' => 'Rating added on project-.',
+     'subject' => 'Projeye reyting eklendi',
+     'text' => 'Projeye reyting eklendi-.',
   ),
   'ratingUpdate' =>
   array(
-     'subject' => 'Rating updated on project',
-     'text' => 'Rating updated on project-.',
+     'subject' => 'Projede reyting güncellendi',
+     'text' => 'Derecelendirme projede güncellendi-.',
   ),
   'lead' =>
   array(
-    'subject' => 'New lead Created!',
-    'text' => 'A new lead has been created.',
-    'withName' => 'With company name',
+    'subject' => 'Yeni müşteri adayı oluşturuldu!',
+    'text' => 'Yeni bir müşteri adayı oluşturuldu.',
+    'withName' => 'Şirket adı ile',
   ),
  'proposalSigned' =>
   array(
-    'subject' => 'Proposal has been accepted!',
-    'text' => 'A new Proposal has been accepted and signed.',
-    'approve' => 'Approved',
+    'subject' => 'Teklif kabul edildi!',
+    'text' => 'Yeni bir Teklif kabul edildi ve imzalandı.',
+    'approve' => 'Onaylandı',
   ),
  'proposalRejected' =>
   array(
-    'subject' => 'Proposal has been declined by lead!',
-    'text' => 'A new Proposal has been declined.',
-    'rejected' => 'Rejected',
+    'subject' => 'Teklif potansiyel müşteri tarafından reddedildi!',
+    'text' => 'Yeni bir Teklif reddedildi.',
+    'rejected' => 'Reddedildi',
   ),
 );
